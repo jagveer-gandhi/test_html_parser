@@ -1,0 +1,12 @@
+{
+  "name": "test_html_parser",
+  "version": "1.0.0",
+  "description": "This project is to test the basic operational timings in the html parser.",
+  "main": "index.js",
+  "author": "jagveer",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.0",
+    "shortid": "^2.2.15"
+  }
+}
